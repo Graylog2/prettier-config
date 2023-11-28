@@ -1,6 +1,6 @@
 {
   "name": "@graylog/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shared prettier config for Graylog projects.",
   "main": "index.json",
   "repository": "git@github.com:Graylog2/prettier-config.git",
