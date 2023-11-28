@@ -1,6 +1,7 @@
 {
-	"jsxBracketSameLine": true,
-	"quoteProps": "preserve",
-	"singleQuote": true,
-	"printWidth": 120
+  "$schema": "http://json.schemastore.org/prettierrc",
+  "jsxBracketSameLine": true,
+  "quoteProps": "preserve",
+  "singleQuote": true,
+  "printWidth": 120
 }
